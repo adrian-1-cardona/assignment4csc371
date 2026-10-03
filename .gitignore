@@ -104,3 +104,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity project is nested under assignment4/
+/assignment4/[Ll]ibrary/
+/assignment4/[Tt]emp/
+/assignment4/[Oo]bj/
+/assignment4/[Bb]uild/
+/assignment4/[Bb]uilds/
+/assignment4/[Ll]ogs/
+/assignment4/[Uu]ser[Ss]ettings/
